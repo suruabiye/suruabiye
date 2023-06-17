@@ -5,13 +5,11 @@
 <br>
 Hello, my name is Suru. I really don't mind you calling me Chris( if you can't pronounce Suru).
  
- - :telescope: Fullstack Software & Web3 Engineer.
+ - :telescope: Fullstack Software Engineer.
 
-- :seedling: Exploring Natural Language Processing
+- :seedling: Exploring NLP && TTS with python and Looking to build an awesome project Web3/Blockchain,
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: In my free time, I try to learn new things like.
 </p>
 
  ## Let's Connect
