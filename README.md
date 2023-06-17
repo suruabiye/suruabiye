@@ -5,7 +5,7 @@
 <br>
 Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris( if you can't pronounce Suru).
  
- - :telescope: Fullstack Software Engineer.
+ - :telescope: Software Engineer.
 
 - :seedling: Exploring NLP & TTS with python and Looking to build an awesome project Web3/Blockchain,
 
