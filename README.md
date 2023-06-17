@@ -1,9 +1,17 @@
  <!-- Banner here -->
  ## 👨‍💻Who Am I?
  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=I'm+Suru;A+Full+Stack+Web3+Developer">
+<!--     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=I'm+Suru;A+Full+Stack+Web3+Developer"> -->
 <br>
 Hello, my name is Suru. I really don't mind you calling me Chris( if you can't pronounce Suru).
+ 
+ - :telescope: Fullstack Software & Web3 Engineer.
+
+- :seedling: Exploring Natural Language Processing
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 </p>
 
  ## Let's Connect
@@ -32,11 +40,6 @@ Hello, my name is Suru. I really don't mind you calling me Chris( if you can't p
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h1>📊 GitHub Stats</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suruabiye/suruabiye/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suruabiye/suruabiye/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suruabiye/suruabiye/output/github-contribution-grid-snake.svg">
-</picture>
 
 ![](https://github-readme-stats.vercel.app/api?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suruabiye&theme=dark&hide_border=true)<br/>
