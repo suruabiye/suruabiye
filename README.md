@@ -5,7 +5,7 @@ Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris
  
  - :telescope: Software Engineer.
 
-- :seedling: Exploring NLP & TTS with python and Looking to building an awesome Web3/Blockchain project,
+- :seedling: Exploring NLP & TTS with Python. Looking to building an awesome Web3/Blockchain project.
 
 - :zap: In my free time, I sing.
 </p>
