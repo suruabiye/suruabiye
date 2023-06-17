@@ -36,7 +36,10 @@ Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=suruabiye&theme=dark&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/suruabiye/suruabiye">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&hide=java,html,tex,vue,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- 
 Here are some ideas to get you started:
