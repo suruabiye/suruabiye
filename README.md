@@ -31,7 +31,7 @@ Hello, my name is Suru. I really don't mind you calling me Chris( if you can't p
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1>📊 GitHub Stats</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suruabiye/suruabiye/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suruabiye/suruabiye/output/github-contribution-grid-snake.svg">
@@ -44,11 +44,7 @@ Hello, my name is Suru. I really don't mind you calling me Chris( if you can't p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suruabiye&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
-**suruabiye/suruabiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
