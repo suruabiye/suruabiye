@@ -1,7 +1,7 @@
  <!-- Banner here -->
  ## 👨‍💻Who Am I?
  <p>
-Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris( if you can't pronounce Suru).
+Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris( if you can't pronounce Surulere).
  
  - :telescope: Software Engineer.
 
