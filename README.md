@@ -24,6 +24,7 @@ Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris
 </div>
 
 <h1>💻 My Stack</h1>
+
 ![PHP](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=PHP&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
