@@ -37,7 +37,7 @@ Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris
 <!-- ![](https://github-readme-stats.vercel.app/api?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=suruabiye&theme=dark&hide_border=true)<br/> -->
 <a href="https://github.com/suruabiye/suruabiye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&title_color=ffffff&hide=blade,shell&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&title_color=ffffff&hide=blade,shell,hack&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
