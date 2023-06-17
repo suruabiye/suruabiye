@@ -9,7 +9,7 @@ Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris
 
 - :seedling: Exploring NLP & TTS with python and Looking to building an awesome Web3/Blockchain project,
 
-- :zap: In my free time, I dabble into music.
+- :zap: In my free time, I sing.
 </p>
 
  ## Let's Connect
