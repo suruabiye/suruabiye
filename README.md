@@ -1,8 +1,6 @@
  <!-- Banner here -->
  ## 👨‍💻Who Am I?
  <p>
-<!--     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=I'm+Suru;A+Full+Stack+Web3+Developer"> -->
-<br>
 Hello, my name is Suru. *clear throats* I don't really mind you calling me Chris( if you can't pronounce Suru).
  
  - :telescope: Software Engineer.
