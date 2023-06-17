@@ -19,7 +19,7 @@ Hello, my name is Suru. I really don't mind you calling me Chris( if you can't p
   </a>
 </div>
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1>💻 My Stack</h1>
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
